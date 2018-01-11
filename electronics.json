@@ -1,0 +1,420 @@
+{
+	"laptops": {
+		"hp": [
+			{
+				"modelNumber": "15-bg007AU",
+				"description": "Life can be unpredictable, but your HP laptop shouldn’t be. So whether it’s last minute projects or spontaneous movie nights, enjoy outstanding performance backed by over 200 tests. Customize it your Way, want a backlit keyboard, custom color scheme, or extra graphics processing? Configure a device that’s perfect for you, and pay only for features you want.",
+				"screenSize": {
+					"value": 15.6,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "AMD",
+					"model": "A6-7310",
+					"speed": {
+						"value": 2,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr3"
+				},
+				"hdd": {
+					"size": 500,
+					"unit": "gb"
+				},
+				"os": {
+					"type": "Windows",
+					"version": 10,
+					"edition": "Home"
+				},
+				"graphicsCard": {
+					"brand": "AMD",
+					"model": "Radeon R4"
+				},
+				"weight": {
+					"value": 2.9,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 21990.00,
+						"currency": "INR"
+					}
+				},
+				"warranty": {
+					"duration": 1,
+					"suffix": "yr"
+				},
+				"features": [
+					"HP TrueVision HD webcam"
+				]
+			},
+			{
+				"modelNumber": "15q-BU004TU",
+				"description": "HP notebooks make it easy for you to do more and stay connected - with an all new design with unique textures and patterns and a worry-free computing experience that’s just right for you. Discover the perfect balance of performance and appearance. Besides it’s beautiful design, this HP laptop offers reliable performance and long-lasting battery life so you can easily surf, stream, and stay in touch with what matters most.",
+				"screenSize": {
+					"value": 15.6,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "Core i3-6006U",
+					"speed": {
+						"value": 2,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr4"
+				},
+				"hdd": {
+					"size": 1,
+					"unit": "tb"
+				},
+				"os": {
+					"type": "DOS"
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 2.1,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 31837.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 27490.00,
+						"currency": "INR"
+					}
+				},
+				"warranty": {
+					"duration": 1,
+					"suffix": "yr"
+				},
+				"features": [
+					"Concentric 4 cell cylindrical battery for longer battery life",
+					"Lightweight",
+					"Unique visual Strata pattern design on keyboard cover with chrome finished hinges"
+				]
+			}
+		],
+		"lenovo": [
+			{
+				"modelNumber": "Ideapad 110 80T70015IH",
+				"screenSize": {
+					"value": 15.6,
+					"unit": "in"
+				},
+				"processor": {
+					"model": "Intel Pentium N3710",
+					"speed": {
+						"value": 2.56,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr3l"
+				},
+				"hdd": {
+					"size": 1,
+					"unit": "tb"
+				},
+				"os": {
+					"type": "DOS"
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 2.2,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 23990.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 22368.00,
+						"currency": "INR"
+					}
+				},
+				"features": [
+					"Blazing fast Wi-Fi",
+					"180 degree hinge",
+					"Latest Intel Braswell processor"
+				]
+			},
+			{
+				"modelNumber": "Ideapad 320E 80XL0376IN",
+				"description": "The IdeaPad 320 is designed to handle any task with ease. With powerful processing, discrete graphics, and a streamlined design, you get the best of performance within the simplicity of this machine.",
+				"screenSize": {
+					"value": 15.6,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "Core i5-7200U",
+					"speed": {
+						"value": 3.1,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr4"
+				},
+				"hdd": {
+					"size": 1,
+					"unit": "tb"
+				},
+				"os": {
+					"type": "Windows",
+					"version": 10,
+					"edition": "Home"
+				},
+				"graphicsCard": {
+					"brand": "NVIDIA",
+					"model": "GeForce 920MX",
+					"memory": {
+						"size": 2,
+						"unit": "gb"
+					},
+					"type": "gddr5"
+				},
+				"weight": {
+					"value": 2.2,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 40990.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 39878.00,
+						"currency": "INR"
+					}
+				},
+				"features": [
+					"HD 720p webcam with single mic",
+					"Dolby Audio-optimized speakers by JBL",
+					"High-resolution graphics for Play"
+				]
+			}
+		],
+		"dell": [
+			{
+				"modelNumber": "Vostro 3468",
+				"screenSize": {
+					"value": 14,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "i3 7100U",
+					"speed": {
+						"value": 2.4,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr4"
+				},
+				"hdd": {
+					"size": 1,
+					"unit": "tb"
+				},
+				"os": {
+					"type": "Windows",
+					"version": 10
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 1.78,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 35925.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 35425.00,
+						"currency": "INR"
+					}
+				},
+				"features": [
+					"Anti glare display",
+					"Finger Print Reader default (14\")",
+					"TPM chip for bit locker security",
+					"ADP+Pro Support worth Rs 1899 built in"
+				]
+			},
+			{
+				"modelNumber": "Inspiron 15-3567",
+				"description": "38.1cm (15) laptop with essential performance, featuring top processors, a glossy TrueLife display and long battery life.",
+				"screenSize": {
+					"value": 15.6,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "Core i3",
+					"speed": {
+						"value": 2.3,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 4,
+					"unit": "gb",
+					"type": "ddr4"
+				},
+				"hdd": {
+					"size": 1,
+					"unit": "tb"
+				},
+				"os": {
+					"type": "Ubuntu",
+					"version": 16.4
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 2.5,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 29990.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 28990.00,
+						"currency": "INR"
+					}
+				},
+				"features": [
+					"Awesome Audio Clarity",
+					"Get your Hands on A Glossy Display",
+					"Get the added flexibility and storage of a built-in DVD drive"
+				]
+			}
+		],
+		"apple": [
+			{
+				"modelNumber": "MQD32HN/A",
+				"description": "MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee to your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback.",
+				"screenSize": {
+					"value": 13.3,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "Core i5-6200U",
+					"speed": {
+						"value": 1.8,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 8,
+					"unit": "gb",
+					"type": "lpddr3"
+				},
+				"sdd": {
+					"size": 128,
+					"unit": "gb"
+				},
+				"os": {
+					"type": "Mac OS",
+					"version": 10.12,
+					"name": "Sierra"
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 1.35,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 77200.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 54490.00,
+						"currency": "INR"
+					}
+				},
+				"warranty": {
+					"duration": 1,
+					"suffix": "yr"
+				},
+				"features": [
+					"Thin. Light. Powerful. And Ready for Anything",
+					"MacBook Air lasts up to an incredible 12 hours between charges",
+					"802.11ac Wi-Fi. Effortless Wireless",
+					"MacBook Air is up to 17x faster than a 5400-rpm notebook hard drive."
+				]
+			},
+			{
+				"modelNumber": "MJLQ2HN/A",
+				"description": "2.2GHz Processor 256 GB Storage 2.2GHz quad-core Intel Core i7 Turbo Boost up to 3.4GHz 16GB 1600MHz memory 256GB PCIe-based flash storage1 Intel Iris Pro Graphics - Built-in battery (9 hours)2 Force Touch trackpad.",
+				"screenSize": {
+					"value": 15,
+					"unit": "in"
+				},
+				"processor": {
+					"brand": "Intel",
+					"model": "Core i7-7700K",
+					"speed": {
+						"value": 2.2,
+						"unit": "GHz"
+					}
+				},
+				"ram": {
+					"size": 16,
+					"unit": "gb",
+					"type": "ddr3"
+				},
+				"sdd": {
+					"size": 256,
+					"unit": "gb"
+				},
+				"os": {
+					"type": "Mac OS",
+					"version": 10.11,
+					"name": "El Capitan"
+				},
+				"graphicsCard": null,
+				"weight": {
+					"value": 2.04,
+					"unit": "kg"
+				},
+				"price": {
+					"original": {
+						"value": 154990.00,
+						"currency": "INR"
+					},
+					"discounted": {
+						"value": 142998.00,
+						"currency": "INR"
+					}
+				},
+				"features": [
+					"Force Touch trackpad for precise cursor control"
+				]
+			}
+		]
+	}
+}
