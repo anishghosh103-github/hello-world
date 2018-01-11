@@ -27,41 +27,63 @@
 			"Mystery",
 			"Thriller"
 		],
-		"releasedOn": {
+		"publishedOn": {
 			"day": 3,
 			"month": 10,
 			"year": 2017
 		}
 	},
 	{
-		"bookId": "XXXF010221",
+		"bookId": "XSSF172636",
 		"title": "Tell Tale",
-		"description": "",
+		"description": "Find out what happens to the hapless young detective from Naples who travels to an Italian hillside town to find out Who Killed the Mayor? and the pretentious schoolboy in A Road to Damascus, whose discovery of the origins of his father’s wealth changes his life in the most profound way.",
 		"author": "Jeffrey Archer",
 		"price": {
-			"hardcover": {
+			"paperback": {
 				"original": {
-					"value": 799.00,
+					"value": 399.00,
 					"currency": "INR"
 				},
 				"discounted": {
-					"value": 185.00,
-					"currency": "INR"
-				}
-			},
-			"paperback": {
-				"original": {
-					"value": 1373.69,
+					"value": 280.00,
 					"currency": "INR"
 				}
 			}
 		},
 		"genre": [
-			"Fiction"
+			"Fiction",
+			"Short Stories"
 		],
-		"releasedOn": {
+		"publishedOn": {
 			"day": 14,
 			"month": 11,
+			"year": 2017
+		}
+	},
+	{
+		"bookId": "XBAB120234",
+		"title": "Hit Refresh",
+		"description": "Microsoft's CEO tells the inside story of the company's continuing transformation, tracing his own personal journey from a childhood in India to leading some of the most significant technological changes in the digital era.",
+		"author": "Satya Nadella",
+		"price": {
+			"paperback": {
+				"original": {
+					"value": 599.00,
+					"currency": "INR"
+				},
+				"discounted": {
+					"value": 372.00,
+					"currency": "INR"
+				}
+			}
+		},
+		"genre": [
+			"Biographies",
+			"Autobiographies"
+		],
+		"publishedOn": {
+			"day": 26,
+			"month": 9,
 			"year": 2017
 		}
 	}
