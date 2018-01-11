@@ -1,0 +1,68 @@
+[
+	{
+		"bookId": "SFMT010221",
+		"title": "Origin: Number 5 of the Robert Langdon Series",
+		"description": "The spellbinding new Robert Langdon novel from the author of The Da Vinci Code.",
+		"author": "Dan Brown",
+		"price": {
+			"hardcover": {
+				"original": {
+					"value": 799.00,
+					"currency": "INR"
+				},
+				"discounted": {
+					"value": 185.00,
+					"currency": "INR"
+				}
+			},
+			"paperback": {
+				"original": {
+					"value": 1373.69,
+					"currency": "INR"
+				}
+			}
+		},
+		"genre": [
+			"Science Fiction",
+			"Mystery",
+			"Thriller"
+		],
+		"releasedOn": {
+			"day": 3,
+			"month": 10,
+			"year": 2017
+		}
+	},
+	{
+		"bookId": "XXXF010221",
+		"title": "Tell Tale",
+		"description": "",
+		"author": "Jeffrey Archer",
+		"price": {
+			"hardcover": {
+				"original": {
+					"value": 799.00,
+					"currency": "INR"
+				},
+				"discounted": {
+					"value": 185.00,
+					"currency": "INR"
+				}
+			},
+			"paperback": {
+				"original": {
+					"value": 1373.69,
+					"currency": "INR"
+				}
+			}
+		},
+		"genre": [
+			"Fiction"
+		],
+		"releasedOn": {
+			"day": 14,
+			"month": 11,
+			"year": 2017
+		}
+	}
+]
